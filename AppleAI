@@ -1,0 +1,9 @@
+# NAME:AppleAI
+HOST-SUFFIX,smoot.apple.com,AppleAI
+HOST,guzzoni.apple.com,AppleAI
+HOST,gspe1-ssl.ls.apple.com,AppleAI
+HOST,apple-relay.mask.apple-dns.net,AppleAI
+HOST,apple-relay.fastly-edge.com,AppleAI
+HOST,apple-relay.apple.com,AppleAI
+HOST,apple-relay.cloudflare.com,AppleAI
+HOST,cp4.cloudflare.com,AppleAI
